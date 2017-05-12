@@ -1,0 +1,3 @@
+[app]
+vm1={"user": "root", "password": "freedom", "ip": "10.0.0.11","port":"22"}
+vm3={"user": "root", "password": "freedom", "ip": "10.0.0.13","port":"22"}
