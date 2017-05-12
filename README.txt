@@ -1,9 +1,3 @@
-# 作业：fabric
-
-### 作者介绍：
-- author：王武功
-- My Blog : http://blog.itpub.net/26735168/viewspace-2139008/
-
 
 ### 程序结构：
 ```
